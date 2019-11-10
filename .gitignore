@@ -23,6 +23,7 @@ wheels/
 *.egg-info/
 .installed.cfg
 *.egg
+.DS_Store
 MANIFEST
 
 # PyInstaller
@@ -89,6 +90,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+flask-env/
 
 # Spyder project settings
 .spyderproject
